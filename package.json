@@ -1,0 +1,22 @@
+{
+  "name": "projeto-vidflow-main",
+  "version": "1.0.0",
+  "description": "primeiro projeto que usa uma api",
+  "main": "script.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cha-de-suco/VidFlow.git"
+  },
+  "keywords": [
+    "vidflow"
+  ],
+  "author": "cha-de-suco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cha-de-suco/VidFlow/issues"
+  },
+  "homepage": "https://github.com/cha-de-suco/VidFlow#readme"
+}
